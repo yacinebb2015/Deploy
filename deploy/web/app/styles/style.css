@@ -1,0 +1,11 @@
+#wakanda-logo {
+    margin: 5% 0;
+    max-height: 100%;
+    max-width: 100%;
+}
+
+@media screen and (max-width: 768px) {
+    #wakanda-logo {
+        margin: 10% 0;
+    }
+}

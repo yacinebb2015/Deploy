@@ -1,0 +1,1 @@
+This folder is meant to contain common assets available on `/common` path.
